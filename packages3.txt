@@ -1,0 +1,2 @@
+vscode
+visualstudio2019community

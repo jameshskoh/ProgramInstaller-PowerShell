@@ -1,0 +1,11 @@
+peazip.install
+putty.install
+winscp.install
+brave
+typora
+github-desktop
+openssh
+googlechrome
+firefox
+jre8
+jdk8
